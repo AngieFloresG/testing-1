@@ -12,7 +12,6 @@ Mis goals en esta semana son:
     4. Aprender controlar versiones con GIT
 
 
-![](https://museos.cultura.pe/sites/default/files/actividad/imagen/Logo_oficial_del_Bicentenario_de_la_Independencia_del_Peru%CC%81.png)
 
 
 ### **Tablas**
@@ -21,3 +20,5 @@ Mis goals en esta semana son:
 | R | RStudio |
 | JS | VCS |
 | Python | Jupyter Notebook |
+
+![](https://museos.cultura.pe/sites/default/files/actividad/imagen/Logo_oficial_del_Bicentenario_de_la_Independencia_del_Peru%CC%81.png)
